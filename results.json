@@ -1,0 +1,4348 @@
+[
+  {
+    "url": "https://home.adcet.ac.in/MEFGIHome.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 4 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_1.png",
+    "load_time": 0.717233419418335,
+    "visited_time": "2026-02-06 16:00:32",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770373821970
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770373821970
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770373821970
+      }
+    ]
+  },
+  {
+    "url": "https://home.adcet.ac.in/#",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_2.png",
+    "load_time": 0.7350773811340332,
+    "visited_time": "2026-02-06 16:00:36",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ADCETHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770373835042
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ADCETHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770373835042
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ADCETHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770373835042
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/# 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770373835736
+      }
+    ]
+  },
+  {
+    "url": "https://home.adcet.ac.in/EmployeeProfile.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_3.png",
+    "load_time": 0.6157715320587158,
+    "visited_time": "2026-02-06 16:00:41",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/css/employee-personal-detail-style.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770373840177
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/feesduedetails.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_4.png",
+    "load_time": 0.6528992652893066,
+    "visited_time": "2026-02-06 16:00:45",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.adcet.ac.in/feesduedetails.aspx 184:20 Uncaught SyntaxError: Unexpected identifier 'SelectDesignSearch'",
+        "source": "javascript",
+        "timestamp": 1770373844263
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamMarksEntry.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_5.png",
+    "load_time": 0.6841778755187988,
+    "visited_time": "2026-02-06 16:00:50",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/ExamMarksEntry.aspx 2219:0 Uncaught ReferenceError: popupheight is not defined",
+        "source": "javascript",
+        "timestamp": 1770373848675
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/TransferTimeTable.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_6.png",
+    "load_time": 0.38297224044799805,
+    "visited_time": "2026-02-06 16:00:54",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/DirectorDashboard.aspx",
+    "issues": [
+      "Slow load: 6.35s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_7.png",
+    "load_time": 6.349992275238037,
+    "visited_time": "2026-02-06 16:01:04",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/TransportationRouteDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_8.png",
+    "load_time": 1.0492238998413086,
+    "visited_time": "2026-02-06 16:01:09",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770373867943
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770373867987
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770373868032
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770373867986 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770373868083
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/CentralStreamwiseSemesterWiseSubject.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_9.png",
+    "load_time": 0.40050172805786133,
+    "visited_time": "2026-02-06 16:01:13",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ProcurementOfBookNew.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_10.png",
+    "load_time": 0.45672130584716797,
+    "visited_time": "2026-02-06 16:01:16",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/MEFAcademicDash/FacultyUI/FacultyEContentUP.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_11.png",
+    "load_time": 0.46098852157592773,
+    "visited_time": "2026-02-06 16:01:21",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/Attendence.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_12.png",
+    "load_time": 0.5096302032470703,
+    "visited_time": "2026-02-06 16:01:26",
+    "js_logs": []
+  },
+  {
+    "url": "https://event.adcet.ac.in/",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_13.png",
+    "load_time": 1.5873239040374756,
+    "visited_time": "2026-02-06 16:01:32",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://event.adcet.ac.in/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770373891241
+      }
+    ]
+  },
+  {
+    "url": "https://budget.adcet.ac.in/",
+    "issues": [
+      "Slow load: 5.39s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_14.png",
+    "load_time": 5.390436887741089,
+    "visited_time": "2026-02-06 16:01:42",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/YourDailyPunching.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_15.png",
+    "load_time": 0.5160722732543945,
+    "visited_time": "2026-02-06 16:01:47",
+    "js_logs": []
+  },
+  {
+    "url": "https://pbas.adcet.ac.in/",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_16.png",
+    "load_time": 1.5330193042755127,
+    "visited_time": "2026-02-06 16:01:52",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://pbas.adcet.ac.in/js/design-common_approval.js 256:14 Uncaught TypeError: $(...).onePageNav is not a function",
+        "source": "javascript",
+        "timestamp": 1770373910958
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/ControlPages/YourCheckInOutPunching.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_17.png",
+    "load_time": 0.826136589050293,
+    "visited_time": "2026-02-06 16:01:55",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ControlPages/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770373914844
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ControlPages/js/bootstrap-tooltip.js?_=1770373914847 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770373914905
+      }
+    ]
+  },
+  {
+    "url": "https://training.adcet.ac.in/",
+    "issues": [
+      "Visit failed: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ],
+    "screenshot": "screenshots\\failed\\page_18.png",
+    "load_time": 0,
+    "visited_time": "2026-02-06 16:02:00",
+    "js_logs": []
+  },
+  {
+    "url": "https://helpdesk.adcet.ac.in/",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_19.png",
+    "load_time": 1.4245402812957764,
+    "visited_time": "2026-02-06 16:02:05",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://helpdesk.adcet.ac.in/css/hr-style.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770373924760
+      }
+    ]
+  },
+  {
+    "url": "https://ss.adcet.ac.in/",
+    "issues": [
+      "Slow load: 5.75s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_20.png",
+    "load_time": 5.754163980484009,
+    "visited_time": "2026-02-06 16:02:14",
+    "js_logs": []
+  },
+  {
+    "url": "https://hostel.adcet.ac.in/",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 2 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_21.png",
+    "load_time": 1.0042061805725098,
+    "visited_time": "2026-02-06 16:02:19",
+    "js_logs": []
+  },
+  {
+    "url": "https://dashboard.adcet.ac.in/",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_22.png",
+    "load_time": 1.2520360946655273,
+    "visited_time": "2026-02-06 16:02:24",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://dashboard.adcet.ac.in/pdf/Uni-Presentation1.pdf - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770373942917
+      }
+    ]
+  },
+  {
+    "url": "https://payroll.adcet.ac.in/",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_23.png",
+    "load_time": 0.4432675838470459,
+    "visited_time": "2026-02-06 16:02:27",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamResultDelete.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_24.png",
+    "load_time": 0.580970048904419,
+    "visited_time": "2026-02-06 16:02:31",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/FinalResultGenerate.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_25.png",
+    "load_time": 0.46657371520996094,
+    "visited_time": "2026-02-06 16:02:35",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamResultEntryQrCode.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_26.png",
+    "load_time": 0.22714900970458984,
+    "visited_time": "2026-02-06 16:02:40",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamAnswerSheetAllocation.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_27.png",
+    "load_time": 0.35848355293273926,
+    "visited_time": "2026-02-06 16:02:45",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamResultEntryQrCode.aspx?Type=Abs",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_28.png",
+    "load_time": 0.23047637939453125,
+    "visited_time": "2026-02-06 16:02:50",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/EAssessmentResultGenerate.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_29.png",
+    "load_time": 0.3558502197265625,
+    "visited_time": "2026-02-06 16:02:53",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/css/bootstrap-grid-style.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770373972671
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/chosen/chosen.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770373972671
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/chosen/chosen.jquery.min.js - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770373972673
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/EAssessmentResultGenerate.aspx 2246:32 Uncaught TypeError: $(...).chosen is not a function",
+        "source": "javascript",
+        "timestamp": 1770373972699
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/SemesterDetailActiveInActive.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_30.png",
+    "load_time": 0.2724599838256836,
+    "visited_time": "2026-02-06 16:02:58",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamBlockGenerate.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_31.png",
+    "load_time": 0.25069355964660645,
+    "visited_time": "2026-02-06 16:03:02",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/StudentWiseBlockAllotment.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_32.png",
+    "load_time": 0.3186044692993164,
+    "visited_time": "2026-02-06 16:03:07",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamResultRange.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_33.png",
+    "load_time": 0.2582254409790039,
+    "visited_time": "2026-02-06 16:03:11",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ViewStudentPassword.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_34.png",
+    "load_time": 0.230560302734375,
+    "visited_time": "2026-02-06 16:03:14",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/UFMReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_35.png",
+    "load_time": 0.3548884391784668,
+    "visited_time": "2026-02-06 16:03:18",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ManageMantorDashboard.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_36.png",
+    "load_time": 1.0328454971313477,
+    "visited_time": "2026-02-06 16:03:23",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/DocumentVerifyRequest.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_37.png",
+    "load_time": 0.32080769538879395,
+    "visited_time": "2026-02-06 16:03:27",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/InternationalStudentData.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_38.png",
+    "load_time": 0.4212319850921631,
+    "visited_time": "2026-02-06 16:03:32",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/PbasForAllUserReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_39.png",
+    "load_time": 0.23856067657470703,
+    "visited_time": "2026-02-06 16:03:37",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/SportsAnnouncement.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_40.png",
+    "load_time": 0.6495790481567383,
+    "visited_time": "2026-02-06 16:03:41",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/css/datagrid.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374020217
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374020468
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374020475 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374020524
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/StreamWiseDeanMapping.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_41.png",
+    "load_time": 0.38271069526672363,
+    "visited_time": "2026-02-06 16:03:46",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamStudentBlock.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_42.png",
+    "load_time": 0.2806417942047119,
+    "visited_time": "2026-02-06 16:03:50",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/ExamStudentBlock.aspx 2699:12 Uncaught ReferenceError: reDesignRadioButton is not defined",
+        "source": "javascript",
+        "timestamp": 1770374029233
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/SubjectTeachingSchemeUpdate.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_43.png",
+    "load_time": 0.22848176956176758,
+    "visited_time": "2026-02-06 16:03:53",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/PaperFormatUpload.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_44.png",
+    "load_time": 0.3065965175628662,
+    "visited_time": "2026-02-06 16:03:58",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/TimeTableRights.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_45.png",
+    "load_time": 0.38887667655944824,
+    "visited_time": "2026-02-06 16:04:01",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamPaperSelection.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_46.png",
+    "load_time": 0.2726888656616211,
+    "visited_time": "2026-02-06 16:04:06",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamResultEntry.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_47.png",
+    "load_time": 0.4181993007659912,
+    "visited_time": "2026-02-06 16:04:10",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamSupervisor.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_48.png",
+    "load_time": 0.5035884380340576,
+    "visited_time": "2026-02-06 16:04:14",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamSupervisorAllocation.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_49.png",
+    "load_time": 0.31711769104003906,
+    "visited_time": "2026-02-06 16:04:18",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/css/bootstrap-grid-style.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770374057018
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/ExamSupervisorAllocation.aspx 201:0 Uncaught ReferenceError: chosenJS is not defined",
+        "source": "javascript",
+        "timestamp": 1770374057020
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/AnswerSheetAllocationDays.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_50.png",
+    "load_time": 0.24190092086791992,
+    "visited_time": "2026-02-06 16:04:22",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamFormFillup.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_51.png",
+    "load_time": 0.35255956649780273,
+    "visited_time": "2026-02-06 16:04:27",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/staff/general/EmployeeAllMappingYearWiseRpt.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_52.png",
+    "load_time": 0.44089651107788086,
+    "visited_time": "2026-02-06 16:04:32",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/general/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374071911
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/general/js/bootstrap-tooltip.js?_=1770374071907 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374071955
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/StudentWiseTelegramRegistration.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_53.png",
+    "load_time": 0.24845075607299805,
+    "visited_time": "2026-02-06 16:04:37",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/AdmissionJRSNewAdmission.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_54.png",
+    "load_time": 0.23953485488891602,
+    "visited_time": "2026-02-06 16:04:42",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/FitnessAssessmentApplications.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_55.png",
+    "load_time": 0.27963924407958984,
+    "visited_time": "2026-02-06 16:04:46",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/InternationalNews.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_56.png",
+    "load_time": 0.4021601676940918,
+    "visited_time": "2026-02-06 16:04:51",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: exportpdf-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770374090398
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#exportpdf-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770374090398
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: cloudservices-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770374090399
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#cloudservices-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770374090399
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:170 \"[CKEDITOR] Error code: editor-plugin-conflict.\" Object",
+        "source": "console-api",
+        "timestamp": 1770374090402
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#editor-plugin-conflict\"",
+        "source": "console-api",
+        "timestamp": 1770374090402
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/FacultyFeedbackGeneration.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_57.png",
+    "load_time": 0.27907276153564453,
+    "visited_time": "2026-02-06 16:04:54",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/FacultyFeedbackReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_58.png",
+    "load_time": 1.7847883701324463,
+    "visited_time": "2026-02-06 16:05:00",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/staff/General/PopupAdminPanel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_59.png",
+    "load_time": 0.9207396507263184,
+    "visited_time": "2026-02-06 16:05:05",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/staff/General/PopupAdminPanel.aspx 142 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374104446
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374104447
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374104476
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374104591
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374104627
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770374104596 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374104670
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamPolicies.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_60.png",
+    "load_time": 0.41592979431152344,
+    "visited_time": "2026-02-06 16:05:09",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ResearchNews.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_61.png",
+    "load_time": 0.2776021957397461,
+    "visited_time": "2026-02-06 16:05:14",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: exportpdf-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770374113686
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#exportpdf-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770374113686
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:221 \"[CKEDITOR] Error code: cloudservices-no-token-url.\"",
+        "source": "console-api",
+        "timestamp": 1770374113687
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#cloudservices-no-token-url\"",
+        "source": "console-api",
+        "timestamp": 1770374113687
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:170 \"[CKEDITOR] Error code: editor-plugin-conflict.\" Object",
+        "source": "console-api",
+        "timestamp": 1770374113689
+      },
+      {
+        "level": "WARNING",
+        "message": "https://cdn.adcet.ac.in/ckeditor/ckeditor.js 20:265 \"[CKEDITOR] For more information about this error go to https://ckeditor.com/docs/ckeditor4/latest/guide/dev_errors.html#editor-plugin-conflict\"",
+        "source": "console-api",
+        "timestamp": 1770374113689
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamAdminPanel.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_62.png",
+    "load_time": 0.2982301712036133,
+    "visited_time": "2026-02-06 16:05:19",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamStudentNotAllow.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_63.png",
+    "load_time": 0.33026885986328125,
+    "visited_time": "2026-02-06 16:05:23",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/staff/General/DocumentsUploads.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_64.png",
+    "load_time": 0.6861789226531982,
+    "visited_time": "2026-02-06 16:05:29",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/staff/General/DocumentsUploads.aspx 400 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374127846
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374127846
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374127875
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery-1.11.0.min - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374127876
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/Images/Indent/roundLoading.gif - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374127910
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/DocumentsUploads.aspx 2613:12 Uncaught ReferenceError: makeDangerous is not defined",
+        "source": "javascript",
+        "timestamp": 1770374127988
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770374127981 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374128026
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/staff/General/MagnusEventReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_65.png",
+    "load_time": 0.8343460559844971,
+    "visited_time": "2026-02-06 16:05:34",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamEmployeeName.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_66.png",
+    "load_time": 1.821336269378662,
+    "visited_time": "2026-02-06 16:05:40",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Marketing/CRM.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_67.png",
+    "load_time": 1.8450350761413574,
+    "visited_time": "2026-02-06 16:05:46",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/VisitingFaculty.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_68.png",
+    "load_time": 0.7156074047088623,
+    "visited_time": "2026-02-06 16:05:51",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/VisitingFaculty.aspx 161 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374150678
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374150678
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374150711
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374150852 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374150914
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/FacultyFreeSlot/FacultyFreeSlot.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading"
+    ],
+    "screenshot": "screenshots\\failed\\page_69.png",
+    "load_time": 0.1933577060699463,
+    "visited_time": "2026-02-06 16:05:55",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374155009
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in//LearningResources/EntryHomePending.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404"
+    ],
+    "screenshot": "screenshots\\failed\\page_70.png",
+    "load_time": 0.056854963302612305,
+    "visited_time": "2026-02-06 16:05:59",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in//LearningResources/EntryHomePending.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374159166
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/StreamWiseHODMapping.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_71.png",
+    "load_time": 0.4034090042114258,
+    "visited_time": "2026-02-06 16:06:04",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ClassWiseReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_72.png",
+    "load_time": 0.255295991897583,
+    "visited_time": "2026-02-06 16:06:09",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/StudentFieldIntership.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_73.png",
+    "load_time": 0.27376508712768555,
+    "visited_time": "2026-02-06 16:06:12",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamMarksOffline.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_74.png",
+    "load_time": 0.3568880558013916,
+    "visited_time": "2026-02-06 16:06:17",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamStudentCountUpcoming.aspx",
+    "issues": [
+      "Slow load: 47.99s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_75.png",
+    "load_time": 47.98760199546814,
+    "visited_time": "2026-02-06 16:07:08",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://academic.adcet.ac.in/ExamStudentCountUpcoming.aspx 2154 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770374180080
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamAnswerSheet.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_76.png",
+    "load_time": 0.2623727321624756,
+    "visited_time": "2026-02-06 16:07:12",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/FacultyFeedbackTop10.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_77.png",
+    "load_time": 0.6177725791931152,
+    "visited_time": "2026-02-06 16:07:17",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/FacultyFeedbackTop10.aspx 57 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374236288
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374236288
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374236327
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374236387
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374236405
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374236395 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374236442
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/MyDailyAndMasterTimeTable.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_78.png",
+    "load_time": 0.39455676078796387,
+    "visited_time": "2026-02-06 16:07:22",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/MyDailyAndMasterTimeTable.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374241490
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374241490
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374241516
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374241588
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374241594
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374241522 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374241630
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/TopicCoveredOnAttendanceNew.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_79.png",
+    "load_time": 0.28151941299438477,
+    "visited_time": "2026-02-06 16:07:26",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.adcet.ac.in/inc/bootstrap-datepicker/bootstrap-datepicker.css 5:0 Uncaught SyntaxError: Unexpected token '.'",
+        "source": "javascript",
+        "timestamp": 1770374245364
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/ByPassAttandance.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_80.png",
+    "load_time": 0.4644927978515625,
+    "visited_time": "2026-02-06 16:07:31",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/ByPassAttandance.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374250485
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374250485
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374250507
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374250518
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374250523
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374250512 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374250559
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/TeachingSchemeApproval.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_81.png",
+    "load_time": 0.2589287757873535,
+    "visited_time": "2026-02-06 16:07:36",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/ControlPages/FirstLectureWiseStudAtt.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_82.png",
+    "load_time": 0.5974080562591553,
+    "visited_time": "2026-02-06 16:07:40",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/ControlPages/FirstLectureWiseStudAtt.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374259364
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374259364
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ControlPages/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374259393
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374259484
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374259498
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ControlPages/js/bootstrap-tooltip.js?_=1770374259492 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374259538
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/ControlPages/FacultyWiseWorkingHours.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_83.png",
+    "load_time": 0.4743525981903076,
+    "visited_time": "2026-02-06 16:07:45",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/ControlPages/FacultyWiseWorkingHours.aspx 202 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374264138
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374264139
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374264163
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ControlPages/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374264171
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374264182
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ControlPages/js/bootstrap-tooltip.js?_=1770374264173 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374264222
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/CreateMastertimetable.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_84.png",
+    "load_time": 0.2926008701324463,
+    "visited_time": "2026-02-06 16:07:49",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/Createtimetable.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_85.png",
+    "load_time": 0.31752920150756836,
+    "visited_time": "2026-02-06 16:07:53",
+    "js_logs": []
+  },
+  {
+    "url": "https://placement.adcet.ac.in/TIPOCompanyCampusDrive.aspx",
+    "issues": [
+      "Visit failed: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ],
+    "screenshot": "screenshots\\failed\\page_86.png",
+    "load_time": 0,
+    "visited_time": "2026-02-06 16:07:58",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/TIPOWEB/TopicWiseQuestion_lsrw.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_87.png",
+    "load_time": 0.49549317359924316,
+    "visited_time": "2026-02-06 16:08:03",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/TIPOWEB/TopicWiseQuestion_lsrw.aspx 174 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374281911
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374281912
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/TIPOWEB/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374281959
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374281984
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374282011
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/TIPOWEB/js/bootstrap-tooltip.js?_=1770374281995 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374282048
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/GDExamScheduleDM.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_88.png",
+    "load_time": 1.1684939861297607,
+    "visited_time": "2026-02-06 16:08:08",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/GDExamScheduleWPar.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_89.png",
+    "load_time": 0.5308895111083984,
+    "visited_time": "2026-02-06 16:08:12",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ADCETHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770374291093
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ADCETHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770374291093
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ADCETHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770374291094
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/GDExamScheduleWPar.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374291435
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374291435
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/js/jquery-1.11.0.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374291473
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374291473
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374291504
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374291522
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374291510 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374291557
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/CreateExamCSWise.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_90.png",
+    "load_time": 0.3075873851776123,
+    "visited_time": "2026-02-06 16:08:17",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamPaperDetail.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_91.png",
+    "load_time": 0.24723005294799805,
+    "visited_time": "2026-02-06 16:08:20",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamAnswerKey.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_92.png",
+    "load_time": 1.1581683158874512,
+    "visited_time": "2026-02-06 16:08:25",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/SyllabusFacultyModulePlanP.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_93.png",
+    "load_time": 0.3542673587799072,
+    "visited_time": "2026-02-06 16:08:30",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Syllabus/SyllabusFacultyModulePage.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_94.png",
+    "load_time": 0.3765299320220947,
+    "visited_time": "2026-02-06 16:08:35",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Syllabus/SyllabusFacultyModulePage.aspx 1047 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374313904
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374313904
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374313920
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Syllabus/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374313936
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374313940
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Syllabus/js/bootstrap-tooltip.js?_=1770374313928 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374313976
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/ClassLedgerP.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_95.png",
+    "load_time": 0.5640690326690674,
+    "visited_time": "2026-02-06 16:08:39",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/ClassLedgerP.aspx 1693 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374318061
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374318061
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374318077
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374318250
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374318254
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374318083 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374318291
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/StudentTimeTableCheck.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_96.png",
+    "load_time": 0.2707371711730957,
+    "visited_time": "2026-02-06 16:08:43",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/ICardViolation.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_97.png",
+    "load_time": 0.27696681022644043,
+    "visited_time": "2026-02-06 16:08:47",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/staff/General/MentorStudentGradeP.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_98.png",
+    "load_time": 0.39449381828308105,
+    "visited_time": "2026-02-06 16:08:50",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/staff/General/MentorStudentGradeP.aspx 2038 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374329765
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374329765
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374329773
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374329784
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374329787
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770374329778 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374329824
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/HallTicket.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_99.png",
+    "load_time": 0.2685885429382324,
+    "visited_time": "2026-02-06 16:08:55",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/staff/General/SubjectFacultyMappingP.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_100.png",
+    "load_time": 0.5390243530273438,
+    "visited_time": "2026-02-06 16:08:59",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/staff/General/SubjectFacultyMappingP.aspx 1941 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374338295
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374338295
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374338311
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374338320
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374338324
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770374338317 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374338359
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/TIPOWEB/Company/TIPOStudentResultData.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_101.png",
+    "load_time": 0.38506293296813965,
+    "visited_time": "2026-02-06 16:09:03",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/TIPOWEB/Company/TIPOStudentResultData.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374342155
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374342155
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374342202
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/TIPOWEB/Company/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374342213
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374342220
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/TIPOWEB/Company/js/bootstrap-tooltip.js?_=1770374342208 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374342279
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/CoordinatorEntry.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_102.png",
+    "load_time": 0.4543497562408447,
+    "visited_time": "2026-02-06 16:09:07",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/CoordinatorEntry.aspx 1061 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374346227
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374346227
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374346242
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374346252
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374346256
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374346249 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374346292
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/StudentMentoringDetail.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_103.png",
+    "load_time": 0.46030354499816895,
+    "visited_time": "2026-02-06 16:09:11",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/AcademicFile.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_104.png",
+    "load_time": 0.24017667770385742,
+    "visited_time": "2026-02-06 16:09:16",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/PopupAdminPanel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_105.png",
+    "load_time": 0.6777966022491455,
+    "visited_time": "2026-02-06 16:09:20",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/PopupAdminPanel.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374359433
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374359433
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374359501
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374359547
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374359586
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374359558 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374359623
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ViolationSummary.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_106.png",
+    "load_time": 0.26549649238586426,
+    "visited_time": "2026-02-06 16:09:25",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.adcet.ac.in/BulkFeesReceipt.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_107.png",
+    "load_time": 0.4512672424316406,
+    "visited_time": "2026-02-06 16:09:29",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.adcet.ac.in/js/admin-design-common.js 108:18 Uncaught TypeError: $(...).datetimepicker is not a function",
+        "source": "javascript",
+        "timestamp": 1770374368268
+      }
+    ]
+  },
+  {
+    "url": "https://home.adcet.ac.in/InterviewEvaluation.aspx",
+    "issues": [
+      "Slow load: 9.87s",
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_108.png",
+    "load_time": 9.867738485336304,
+    "visited_time": "2026-02-06 16:09:43",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374372808
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/sweetalert/sweetalert.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770374377861
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/chosen/chosen.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770374377864
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./css/bootstrap-grid-style.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770374377864
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/sweetalert/sweetalert.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770374377875
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/chosen/chosen.jquery.min.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770374377875
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/bootstrap-datepicker/bootstrap-datepicker.js - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770374377875
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn./inc/bootstrap-datepicker/bootstrap-datepicker.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770374382491
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/InterviewEvaluation.aspx 2747:0 Uncaught ReferenceError: swal is not defined",
+        "source": "javascript",
+        "timestamp": 1770374382492
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/InterviewEvaluation.aspx 2538:32 Uncaught TypeError: $(...).chosen is not a function",
+        "source": "javascript",
+        "timestamp": 1770374382505
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/SecurityIncidence.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_109.png",
+    "load_time": 0.41121792793273926,
+    "visited_time": "2026-02-06 16:09:47",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.adcet.ac.in/Images/MarwadiLoadingN.gif - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374386465
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/LoginScreenImageDisplay.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_110.png",
+    "load_time": 0.43536996841430664,
+    "visited_time": "2026-02-06 16:09:52",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/staff/general/AdminUserRights.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_111.png",
+    "load_time": 0.7002918720245361,
+    "visited_time": "2026-02-06 16:09:56",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/staff/general/AdminUserRights.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374394878
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374394878
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/general/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374394900
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/general/js/bootstrap-tooltip.js?_=1770374395043 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374395089
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/PreferenceMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_112.png",
+    "load_time": 0.5047721862792969,
+    "visited_time": "2026-02-06 16:10:00",
+    "js_logs": []
+  },
+  {
+    "url": "https://admin.adcet.ac.in/PendingEmailandSMSMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_113.png",
+    "load_time": 0.45500946044921875,
+    "visited_time": "2026-02-06 16:10:05",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/staff/General/AdminEscalationMatrix.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_114.png",
+    "load_time": 0.46360206604003906,
+    "visited_time": "2026-02-06 16:10:09",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/staff/General/AdminEscalationMatrix.aspx 1894 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374407945
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374407945
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374407981
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770374407971 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374408023
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/AreaMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_115.png",
+    "load_time": 0.5293948650360107,
+    "visited_time": "2026-02-06 16:10:13",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdnadcet.ac.in/css/bootstrap-grid-style.css - Failed to load resource: net::ERR_NAME_NOT_RESOLVED",
+        "source": "network",
+        "timestamp": 1770374412272
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/UserRights.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_116.png",
+    "load_time": 0.7052733898162842,
+    "visited_time": "2026-02-06 16:10:18",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/UserRights.aspx 253 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374416906
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374416906
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374416946
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374416949 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374416989
+      }
+    ]
+  },
+  {
+    "url": "https://indent.adcet.ac.in/UserRrequest.aspx",
+    "issues": [
+      "Visit failed: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ],
+    "screenshot": "screenshots\\failed\\page_117.png",
+    "load_time": 0,
+    "visited_time": "2026-02-06 16:10:22",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/staff/General/SalesInvoiceMain.aspx",
+    "issues": [
+      "Slow load: 9.12s",
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_118.png",
+    "load_time": 9.123059749603271,
+    "visited_time": "2026-02-06 16:10:36",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/staff/General/SalesInvoiceMain.aspx 186 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374431437
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374431438
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374433153
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374433179
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374433722
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/staff/General/js/bootstrap-tooltip.js?_=1770374433225 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374433723
+      }
+    ]
+  },
+  {
+    "url": "https://rights.adcet.ac.in/index.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_119.png",
+    "load_time": 3.3089044094085693,
+    "visited_time": "2026-02-06 16:10:44",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/ICT.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_120.png",
+    "load_time": 0.4052305221557617,
+    "visited_time": "2026-02-06 16:10:48",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/ICT.aspx 1975 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374446972
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374446973
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 621:18 Uncaught TypeError: Cannot read properties of undefined (reading 'oApi')",
+        "source": "javascript",
+        "timestamp": 1770374446987
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374446993
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/EmpConsumptionItemwiseOutwordReports.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_121.png",
+    "load_time": 3.044572591781616,
+    "visited_time": "2026-02-06 16:10:55",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/EmpConsumptionItemwiseOutwordReports.aspx 2024 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374452160
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374452160
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374452178
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374452189
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374452192
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374452184 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374452229
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/EmpConsumptionItemwiseOutwordReports.aspx 2027 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770374452525
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/VisitorDetails.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_122.png",
+    "load_time": 0.7798604965209961,
+    "visited_time": "2026-02-06 16:11:00",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/VisitorDetails.aspx 1810 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374459187
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374459187
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374459200
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374459237
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374459242
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374459206 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374459282
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/ExpenseDebitTo.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_123.png",
+    "load_time": 0.31047582626342773,
+    "visited_time": "2026-02-06 16:11:05",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/ExpenseDebitTo.aspx 104 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374464411
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374464411
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374464427
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374464435
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374464441
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374464435 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374464479
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/ControlPages/TransportationFuel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_124.png",
+    "load_time": 0.2551693916320801,
+    "visited_time": "2026-02-06 16:11:10",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ControlPages/TransportationFuel.aspx - Failed to load resource: the server responded with a status of 500 ()",
+        "source": "network",
+        "timestamp": 1770374469719
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/ControlPages/TransportationAverage.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_125.png",
+    "load_time": 0.132948637008667,
+    "visited_time": "2026-02-06 16:11:14",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ControlPages/TransportationAverage.aspx - Failed to load resource: the server responded with a status of 500 ()",
+        "source": "network",
+        "timestamp": 1770374473718
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/ControlPages/StudentLoggedInCount.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_126.png",
+    "load_time": 0.19211411476135254,
+    "visited_time": "2026-02-06 16:11:18",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ControlPages/StudentLoggedInCount.aspx - Failed to load resource: the server responded with a status of 500 ()",
+        "source": "network",
+        "timestamp": 1770374477520
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/HouseKeeping/HKChangeEmployeeLocation.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_127.png",
+    "load_time": 0.43425822257995605,
+    "visited_time": "2026-02-06 16:11:23",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/HouseKeeping/HKChangeEmployeeLocation.aspx 1309 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374482593
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374482594
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374482610
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/HouseKeeping/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374482625
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374482632
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/HouseKeeping/js/bootstrap-tooltip.js?_=1770374482617 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374482670
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Survey/EmployeeProfileRpt.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_128.png",
+    "load_time": 2.5865681171417236,
+    "visited_time": "2026-02-06 16:11:30",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Survey/EmployeeProfileRpt.aspx 253 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770374488005
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/guesthouse/GuestHouseIndentRequsts.aspx",
+    "issues": [
+      "Slow load: 5.77s",
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_129.png",
+    "load_time": 5.77091121673584,
+    "visited_time": "2026-02-06 16:11:40",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/guesthouse/GuestHouseIndentRequsts.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374499798
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374499798
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/guesthouse/js/select2.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374499830
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/guesthouse/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374499862
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770374499955
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/guesthouse/js/bootstrap-tooltip.js?_=1770374499985 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374500038
+      }
+    ]
+  },
+  {
+    "url": "https://guesthouse.adcet.ac.in/Index.aspx",
+    "issues": [
+      "Visit failed: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ],
+    "screenshot": "screenshots\\failed\\page_130.png",
+    "load_time": 0,
+    "visited_time": "2026-02-06 16:11:44",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/ShiftChangeApproval.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_131.png",
+    "load_time": 0.4716668128967285,
+    "visited_time": "2026-02-06 16:11:49",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/OnlineApplicationPostMaster.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_132.png",
+    "load_time": 0.35146617889404297,
+    "visited_time": "2026-02-06 16:11:53",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/HRLeaveApplication.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_133.png",
+    "load_time": 0.5052928924560547,
+    "visited_time": "2026-02-06 16:11:57",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/DTProvost.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_134.png",
+    "load_time": 0.42067575454711914,
+    "visited_time": "2026-02-06 16:12:02",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/PunchJOBSchedulerSettings.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_135.png",
+    "load_time": 0.39891600608825684,
+    "visited_time": "2026-02-06 16:12:07",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/OffersUpload.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_136.png",
+    "load_time": 0.2685105800628662,
+    "visited_time": "2026-02-06 16:12:12",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/WebLoginHit.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_137.png",
+    "load_time": 0.24919819831848145,
+    "visited_time": "2026-02-06 16:12:16",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/EmpFamilyMembersDetailsInfo.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_138.png",
+    "load_time": 0.2594585418701172,
+    "visited_time": "2026-02-06 16:12:20",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/EmployeeMentoringDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_139.png",
+    "load_time": 0.25841259956359863,
+    "visited_time": "2026-02-06 16:12:25",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/EmployeeMentoringDetail.aspx 2110:80 Uncaught TypeError: Sys.WebForms.PageRequestManager.add_pageloaded is not a function",
+        "source": "javascript",
+        "timestamp": 1770374544259
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/ControlPages/NoDue.aspx",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_140.png",
+    "load_time": 0.415618896484375,
+    "visited_time": "2026-02-06 16:12:29",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/ControlPages/ManPowerRequisition.aspx",
+    "issues": [
+      "Console errors detected",
+      "HTTP status 404",
+      "Redirected 1 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_141.png",
+    "load_time": 0.10005378723144531,
+    "visited_time": "2026-02-06 16:12:32",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/ManPower/Default.aspx - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374552053
+      }
+    ]
+  },
+  {
+    "url": "https://home.adcet.ac.in/EmpPLeaveApplication.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_142.png",
+    "load_time": 0.5628087520599365,
+    "visited_time": "2026-02-06 16:12:36",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/departmentalnotices.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_143.png",
+    "load_time": 0.2407667636871338,
+    "visited_time": "2026-02-06 16:12:40",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/LeaveApplication.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_144.png",
+    "load_time": 0.5180099010467529,
+    "visited_time": "2026-02-06 16:12:44",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/LeaveApproval.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_145.png",
+    "load_time": 0.3231935501098633,
+    "visited_time": "2026-02-06 16:12:48",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/images/22F.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374567414
+      }
+    ]
+  },
+  {
+    "url": "https://home.adcet.ac.in/MEFHolidays.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_146.png",
+    "load_time": 0.24281907081604004,
+    "visited_time": "2026-02-06 16:12:51",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/FacultyResearchProfile.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_147.png",
+    "load_time": 0.7892811298370361,
+    "visited_time": "2026-02-06 16:12:56",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/SalarySlip.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_148.png",
+    "load_time": 0.2621476650238037,
+    "visited_time": "2026-02-06 16:13:00",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ADCETHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770374575323
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ADCETHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770374579115
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/ADCETHome.aspx 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770374579115
+      }
+    ]
+  },
+  {
+    "url": "https://home.adcet.ac.in/PeonList.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_149.png",
+    "load_time": 0.24674415588378906,
+    "visited_time": "2026-02-06 16:13:04",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/ChangePassword.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_150.png",
+    "load_time": 0.4630928039550781,
+    "visited_time": "2026-02-06 16:13:07",
+    "js_logs": [
+      {
+        "level": "DEBUG",
+        "message": "https://login.adcet.ac.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=WsqoYM%2BSBhE%3D&b=fO%2BTc0LAuHM%3D - [DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1770374586885
+      },
+      {
+        "level": "DEBUG",
+        "message": "https://login.adcet.ac.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=WsqoYM%2BSBhE%3D&b=fO%2BTc0LAuHM%3D - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1770374586885
+      },
+      {
+        "level": "DEBUG",
+        "message": "https://login.adcet.ac.in/ChangePassword.aspx?Mode=qNGZ1S5xXi6%2Bppw%2F0D6sBg%3D%3D&a=WsqoYM%2BSBhE%3D&b=fO%2BTc0LAuHM%3D - [DOM] Input elements should have autocomplete attributes (suggested: \"new-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1770374586885
+      }
+    ]
+  },
+  {
+    "url": "https://home.adcet.ac.in/EmployeeCircularUpload.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_151.png",
+    "load_time": 0.24237871170043945,
+    "visited_time": "2026-02-06 16:13:12",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/EmployeeCircularUpload.aspx 2108:12 Uncaught ReferenceError: setCalenderDateTime is not defined",
+        "source": "javascript",
+        "timestamp": 1770374591578
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/PurchaseOrderApproval.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_152.png",
+    "load_time": 0.4451146125793457,
+    "visited_time": "2026-02-06 16:13:16",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374595630
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/PurchaseOrderApproval.aspx 56:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770374595636
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/css/paging.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374595666
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/bootstrap-select.js 1816:3 Uncaught ReferenceError: jQuery is not defined",
+        "source": "javascript",
+        "timestamp": 1770374595706
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/PurchaseOrderApproval.aspx 402:8 Uncaught ReferenceError: $ is not defined",
+        "source": "javascript",
+        "timestamp": 1770374595706
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770374595731
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/images/employee.jpg - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374595765
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Indent/Indents.aspx",
+    "issues": [
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_153.png",
+    "load_time": 2.252448081970215,
+    "visited_time": "2026-02-06 16:13:24",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374602090
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Indent/Indents.aspx 64:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770374602112
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Indent/Indents.aspx 1108:8 Uncaught ReferenceError: $ is not defined",
+        "source": "javascript",
+        "timestamp": 1770374602159
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Indent/Transaction.aspx",
+    "issues": [
+      "Slow load: 7.71s",
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_154.png",
+    "load_time": 7.705449819564819,
+    "visited_time": "2026-02-06 16:13:35",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374614323
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Indent/Transaction.aspx 58:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770374614504
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770374614640
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Indent/Approval.aspx",
+    "issues": [
+      "Slow load: 6.98s",
+      "Console errors detected",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_155.png",
+    "load_time": 6.984646797180176,
+    "visited_time": "2026-02-06 16:13:47",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Students/font/font.css - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374625481
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Indent/Approval.aspx 58:0 Uncaught ReferenceError: setPending is not defined",
+        "source": "javascript",
+        "timestamp": 1770374625483
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/bootstrap-material-datetimepicker.js 1176:11 Uncaught ReferenceError: moment is not defined",
+        "source": "javascript",
+        "timestamp": 1770374625970
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/COAttainment.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_156.png",
+    "load_time": 0.3224039077758789,
+    "visited_time": "2026-02-06 16:13:50",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/COAttainment.aspx 2302:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770374629473
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/COAttainment.aspx?RType=C7",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_157.png",
+    "load_time": 0.3190011978149414,
+    "visited_time": "2026-02-06 16:13:55",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/COAttainment.aspx?RType=C7 2197:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770374634123
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/AcademicCalendar.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_158.png",
+    "load_time": 0.2668037414550781,
+    "visited_time": "2026-02-06 16:13:59",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/AcademicCalendar.aspx 2248:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770374638861
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ResultPassingCommittee.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_159.png",
+    "load_time": 0.30283474922180176,
+    "visited_time": "2026-02-06 16:14:03",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/ResultPassingCommittee.aspx 2310:0 Uncaught ReferenceError: GuidePopupJs is not defined",
+        "source": "javascript",
+        "timestamp": 1770374642539
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamPaperGenerateAssessed.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_160.png",
+    "load_time": 0.26029515266418457,
+    "visited_time": "2026-02-06 16:14:08",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/StudentMentorReport.aspx",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_161.png",
+    "load_time": 0.2344067096710205,
+    "visited_time": "2026-02-06 16:14:13",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/StudentResultExcel.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_162.png",
+    "load_time": 0.29856419563293457,
+    "visited_time": "2026-02-06 16:14:18",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/StudentResultExcel.aspx 743 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374657451
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374657452
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374657489
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374657480 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374657529
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/SubjectFacultyMappingReportNew.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_163.png",
+    "load_time": 0.25646400451660156,
+    "visited_time": "2026-02-06 16:14:22",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/FacultyLoadReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_164.png",
+    "load_time": 0.3517186641693115,
+    "visited_time": "2026-02-06 16:14:26",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ResultMarksReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_165.png",
+    "load_time": 0.24347710609436035,
+    "visited_time": "2026-02-06 16:14:30",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/SyllabusPercentReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_166.png",
+    "load_time": 0.425382137298584,
+    "visited_time": "2026-02-06 16:14:34",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/SyllabusPercentReport.aspx 1513 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374673135
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374673136
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374673166
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374673277 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374673321
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/CentralStreamWiseReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_167.png",
+    "load_time": 0.3559074401855469,
+    "visited_time": "2026-02-06 16:14:37",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/CentralStreamWiseReport.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374676703
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374676703
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374676734
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374676730 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374676773
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/AttendanceReport.aspx?RType=m4xPZcEkEjPnM+NOqUCVhA==",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_168.png",
+    "load_time": 0.14385366439819336,
+    "visited_time": "2026-02-06 16:14:42",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/RubricsPlanningReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_169.png",
+    "load_time": 0.3728020191192627,
+    "visited_time": "2026-02-06 16:14:46",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/RubricsPlanningReport.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374685260
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374685260
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374685286
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374685412 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374685455
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/StudentResultAnalysisReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_170.png",
+    "load_time": 0.3059654235839844,
+    "visited_time": "2026-02-06 16:14:50",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/InwardOutwardSearchReport.aspx",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_171.png",
+    "load_time": 0.2582833766937256,
+    "visited_time": "2026-02-06 16:14:54",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/TimeTableReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_172.png",
+    "load_time": 0.3125479221343994,
+    "visited_time": "2026-02-06 16:14:58",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/TimeTableReport.aspx 657 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374697418
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374697418
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374697445
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374697440 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374697485
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/SocialWalefareCommitteeAudit.aspx",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_173.png",
+    "load_time": 0.23050785064697266,
+    "visited_time": "2026-02-06 16:15:02",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/SubjectNotAllocatedReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_174.png",
+    "load_time": 2.0252840518951416,
+    "visited_time": "2026-02-06 16:15:09",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/SubjectNotAllocatedReport.aspx 2006 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374706890
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374706890
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/SubjectNotAllocatedReport.aspx 2006:554 Uncaught DOMException: Failed to read a named property from 'Location': B\u2026adcet.ac.in\" from accessing a cross-origin frame.",
+        "source": "javascript",
+        "timestamp": 1770374706903
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374706917
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374706909 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374706965
+      },
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/SubjectNotAllocatedReport.aspx 2006 Throttling navigation to prevent the browser from hanging. See https://crbug.com/1038223. Command line switch --disable-ipc-flooding-protection can be used to bypass the protection",
+        "source": "javascript",
+        "timestamp": 1770374707283
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/ByPassAttendanceReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_175.png",
+    "load_time": 0.31484460830688477,
+    "visited_time": "2026-02-06 16:15:13",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/ByPassAttendanceReport.aspx - Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374712624
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374712624
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374712651
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374712644 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374712690
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/MasterTimeTableReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_176.png",
+    "load_time": 0.4247097969055176,
+    "visited_time": "2026-02-06 16:15:18",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/MasterTimeTableReport.aspx 1970 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374717155
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374717155
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374717178
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374717179 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374717221
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/ExamPaperAnswersheetDetail.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_177.png",
+    "load_time": 0.2865278720855713,
+    "visited_time": "2026-02-06 16:15:22",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/Staff/General/ExamPaperAnswersheetDetail.aspx 1945 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374720943
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374720943
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374720951
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374720966
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374720971
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/Staff/General/js/bootstrap-tooltip.js?_=1770374720957 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374721008
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamTypeWiseResult.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_178.png",
+    "load_time": 0.27383947372436523,
+    "visited_time": "2026-02-06 16:15:25",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/DailyTimeTable.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_179.png",
+    "load_time": 0.2641768455505371,
+    "visited_time": "2026-02-06 16:15:29",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/DailyTimeTable.aspx 2558:6 Uncaught SyntaxError: missing ) after argument list",
+        "source": "javascript",
+        "timestamp": 1770374728372
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/AttendanceReports.aspx",
+    "issues": [
+      "Slow load: 5.54s",
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_180.png",
+    "load_time": 5.541331768035889,
+    "visited_time": "2026-02-06 16:15:40",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/bootstrap-datepicker/bootstrap-datepicker.js - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770374738360
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/chosen/chosen.css - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770374738365
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://cdn.misavcoe.org/inc/chosen/chosen.jquery.min.js - Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID",
+        "source": "network",
+        "timestamp": 1770374738372
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/AttendanceReports.aspx 2196:32 Uncaught TypeError: $(...).chosen is not a function",
+        "source": "javascript",
+        "timestamp": 1770374738372
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://academic.adcet.ac.in/AttendanceReports.aspx 2196:32 Uncaught TypeError: $(...).chosen is not a function",
+        "source": "javascript",
+        "timestamp": 1770374738381
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ExamAnswerSheetMarksQuestionWise.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_181.png",
+    "load_time": 0.26555418968200684,
+    "visited_time": "2026-02-06 16:15:45",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/FeesStatusReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_182.png",
+    "load_time": 0.38533902168273926,
+    "visited_time": "2026-02-06 16:15:48",
+    "js_logs": []
+  },
+  {
+    "url": "https://academic.adcet.ac.in/ObeMappingStatusReport.aspx",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_183.png",
+    "load_time": 0.2627723217010498,
+    "visited_time": "2026-02-06 16:15:53",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/AttendanceReport.aspx?RType=6LapKAU2RX9uHv8SzmO0aNXz42U3LxTp",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_184.png",
+    "load_time": 0.36336779594421387,
+    "visited_time": "2026-02-06 16:15:57",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/AttendanceReport.aspx?RType=vsWjtTLbK9Ypo2ktSxJVPg==",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_185.png",
+    "load_time": 0.19996070861816406,
+    "visited_time": "2026-02-06 16:16:02",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/Staff/General/AttendanceReport.aspx?RType=TLC5oQIJ3mh3DVIUFJ5Jfb6mnD/QPqwG",
+    "issues": [
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_186.png",
+    "load_time": 0.24688720703125,
+    "visited_time": "2026-02-06 16:16:07",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/KHM/EmpWiseWorkingHours.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_187.png",
+    "load_time": 0.3865089416503906,
+    "visited_time": "2026-02-06 16:16:12",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/KHM/EmpWiseWorkingHours.aspx 1584 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374771338
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374771338
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374771354
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/KHM/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374771367
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374771371
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/KHM/js/bootstrap-tooltip.js?_=1770374771360 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374771409
+      }
+    ]
+  },
+  {
+    "url": "https://academic.adcet.ac.in/AttendanceReport.aspx",
+    "issues": [
+      "Slow load: 5.0s",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_188.png",
+    "load_time": 5.00173544883728,
+    "visited_time": "2026-02-06 16:16:20",
+    "js_logs": []
+  },
+  {
+    "url": "https://emp.adcet.ac.in/KHM/FacultyWorstPerformance.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_189.png",
+    "load_time": 0.43972158432006836,
+    "visited_time": "2026-02-06 16:16:24",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/KHM/FacultyWorstPerformance.aspx 2024 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374783358
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374783358
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374783371
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/KHM/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374783384
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374783387
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/KHM/js/bootstrap-tooltip.js?_=1770374783377 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374783424
+      }
+    ]
+  },
+  {
+    "url": "https://emp.adcet.ac.in/KHM/TechnicalAttendanceClasswise.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_190.png",
+    "load_time": 0.46814465522766113,
+    "visited_time": "2026-02-06 16:16:28",
+    "js_logs": [
+      {
+        "level": "WARNING",
+        "message": "https://emp.adcet.ac.in/KHM/TechnicalAttendanceClasswise.aspx 2042 Notifications permission has been blocked as the user has ignored the permission prompt several times. This can be reset in Page Info which can be accessed by clicking the tune icon next to the URL. See https://www.chromestatus.com/feature/6443143280984064 for more information.",
+        "source": "other",
+        "timestamp": 1770374787736
+      },
+      {
+        "level": "INFO",
+        "message": "https://emp.adcet.ac.in/js/notification.js 26:16 \"Unable to get permission to notify.\" e",
+        "source": "console-api",
+        "timestamp": 1770374787736
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/jquery.history.js 0:3062 Uncaught Error: History.js Adapter has already been loaded...",
+        "source": "javascript",
+        "timestamp": 1770374787744
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/KHM/js/charisma.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374787758
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/js/charisma.js 4:23 Uncaught TypeError: $.cookie is not a function",
+        "source": "javascript",
+        "timestamp": 1770374787761
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://emp.adcet.ac.in/KHM/js/bootstrap-tooltip.js?_=1770374787752 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374787799
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/Canteen/ItemMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_191.png",
+    "load_time": 0.3732109069824219,
+    "visited_time": "2026-02-06 16:16:33",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.adcet.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374792654
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/Canteen/ApproveAuthority.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_192.png",
+    "load_time": 0.29055356979370117,
+    "visited_time": "2026-02-06 16:16:37",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.adcet.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374796894
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/Canteen/ItemMasterSlab.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_193.png",
+    "load_time": 0.28408312797546387,
+    "visited_time": "2026-02-06 16:16:43",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.adcet.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374802100
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/Canteen/PurposeMaster.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_194.png",
+    "load_time": 0.2884030342102051,
+    "visited_time": "2026-02-06 16:16:47",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.adcet.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374806404
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/Canteen/LunchRequest.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_195.png",
+    "load_time": 0.2932851314544678,
+    "visited_time": "2026-02-06 16:16:50",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.adcet.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374809719
+      }
+    ]
+  },
+  {
+    "url": "https://admin.adcet.ac.in/Canteen/AllCanteenReport.aspx",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_196.png",
+    "load_time": 0.2431349754333496,
+    "visited_time": "2026-02-06 16:16:55",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://admin.adcet.ac.in/Canteen/js/admin-design-common.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1770374814204
+      }
+    ]
+  },
+  {
+    "url": "https://home.adcet.ac.in/#info",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_197.png",
+    "load_time": 0.7866060733795166,
+    "visited_time": "2026-02-06 16:17:00",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/#custom",
+    "issues": [
+      "Console errors detected",
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_198.png",
+    "load_time": 0.013077259063720703,
+    "visited_time": "2026-02-06 16:17:04",
+    "js_logs": [
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/#info 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770374823322
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/#info 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770374823322
+      },
+      {
+        "level": "SEVERE",
+        "message": "https://home.adcet.ac.in/#info 0:0 Uncaught SyntaxError: Unexpected end of JSON input",
+        "source": "javascript",
+        "timestamp": 1770374823322
+      }
+    ]
+  },
+  {
+    "url": "https://home.adcet.ac.in/#dvELeave",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_199.png",
+    "load_time": 0.012571573257446289,
+    "visited_time": "2026-02-06 16:17:07",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/#divcirculars",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_200.png",
+    "load_time": 0.00701594352722168,
+    "visited_time": "2026-02-06 16:17:10",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/#divoffers",
+    "issues": [
+      "Missing H1 heading",
+      "Redirected 3 times"
+    ],
+    "screenshot": "screenshots\\failed\\page_201.png",
+    "load_time": 0.015567302703857422,
+    "visited_time": "2026-02-06 16:17:15",
+    "js_logs": []
+  },
+  {
+    "url": "https://home.adcet.ac.in/HRPDFS/Transportpolicy-2022.pdf",
+    "issues": [
+      "Missing H1 heading"
+    ],
+    "screenshot": "screenshots\\failed\\page_202.png",
+    "load_time": 0.06384801864624023,
+    "visited_time": "2026-02-06 16:17:18",
+    "js_logs": []
+  }
+]
